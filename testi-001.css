@@ -1,0 +1,13 @@
+body {
+  background-image: url("my_background_image.jpg");
+  background-color: grey;
+}
+h1.very_important_header {
+  color: blue; font-weight: bold;
+}
+h2.less_important_header {
+  color: red;
+}
+a img {
+  border-style: none;
+}
