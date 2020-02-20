@@ -2,6 +2,11 @@ body {
   background-image: url("my_background_image.jpg");
   background-color: grey;
 }
+/*
+
+h1 kommentti
+
+*/
 h1.very_important_header {
   color: blue; font-weight: bold;
   margin: 15px 0px 5px 0px;
