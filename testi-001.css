@@ -4,6 +4,11 @@ body {
 }
 h1.very_important_header {
   color: blue; font-weight: bold;
+  margin: 15px 0px 5px 0px;
+  border: 2px solid black;
+  width:1000px; /*Change this to whatever value that you want*/
+  text-align: center;
+  display; block;
 }
 h2.less_important_header {
   color: red;
